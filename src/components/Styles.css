@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+img{
+    border-radius: 15px;
+    border: 4mm ridge rgba(68, 71, 8, 0.6);
+}
+.alinear{
+    float: left;
+    padding: 1%;
+    margin-left: 2%;
+}
+
